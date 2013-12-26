@@ -1,4 +1,3 @@
-
 #************************** RENAME THE FILES STARTING WITH TXT  **********#
 
 #! /bin/bash
